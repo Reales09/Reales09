@@ -27,6 +27,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reales09&" alt="reales09" /></p>
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hulkike/count.svg" />
+  <img src="https://profile-counter.glitch.me/Reales09/count.svg" />
 </p>
 
