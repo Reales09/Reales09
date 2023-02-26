@@ -25,4 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reales09&show_icons=true&locale=en" alt="reales09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reales09&" alt="reales09" /></p>
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hulkike/count.svg" />
+</p>
 
