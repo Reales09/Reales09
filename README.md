@@ -16,13 +16,13 @@
 </p>
 
 
-![reales09's Stats](https://github-readme-stats.vercel.app/api?username=reales09&theme=yeblu&show_icons=true&hide_border=false&count_private=true)
+![reales09's Stats](https://github-readme-stats.vercel.app/api?username=reales09&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 ![reales09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reales09&langs_count=12&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
-![reales09's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reales09&theme=yeblu&hide_border=false)
+![reales09's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reales09&theme=dark&hide_border=false)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reales09&theme=yeblu&repo=yofoPelis)](https://github.com/reales09/yofoPelis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reales09&theme=dark&repo=yofoPelis)](https://github.com/reales09/yofoPelis)
 
 
 <p align="center">
