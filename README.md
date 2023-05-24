@@ -16,13 +16,13 @@
 </p>
 
 
-![reales09's Stats](https://github-readme-stats.vercel.app/api?username=reales09&theme=maroongold&show_icons=true&hide_border=false&count_private=true)
+![reales09's Stats](https://github-readme-stats.vercel.app/api?username=reales09&theme=jolly&show_icons=true&hide_border=false&count_private=true)
 
-![reales09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reales09&langs_count=12&theme=maroongold&show_icons=true&hide_border=false&layout=compact)
+![reales09's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reales09&langs_count=12&theme=jolly&show_icons=true&hide_border=false&layout=compact)
 
-![reales09's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reales09&theme=maroongold&hide_border=false)
+![reales09's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reales09&theme=jolly&hide_border=false)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reales09&theme=maroongold&repo=yofoPelis)](https://github.com/reales09/yofoPelis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reales09&theme=jolly&repo=yofoPelis)](https://github.com/reales09/yofoPelis)
 
 
 <p align="center">
