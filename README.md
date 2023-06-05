@@ -22,7 +22,7 @@
 
 ![reales09's Streak](https://github-readme-streak-stats.herokuapp.com/?user=reales09&theme=midnight-purple&hide_border=false)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reales09&theme=midnight-purple&repo=yofoPelis)](https://github.com/reales09/yofoPelis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reales09&theme=dark&repo=yofoPelis)](https://github.com/reales09/yofoPelis)
 
 
 <p align="center">
